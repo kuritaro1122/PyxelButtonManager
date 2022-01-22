@@ -1,6 +1,7 @@
 # PyxelButtonManager
 
 ## Example
+
 """
 import PyxelButton as pb
 class APP:
